@@ -1,0 +1,42 @@
+[
+  {
+    "authors": null,
+    "categories": null,
+    "content": "I explore conflicts of interest between venture capitalists (VCs) and entrepreneurs (Es). When the venture capital portfolio consists of only a single investment, the VC and E face exactly the same incentives concerning the risk profile and exit strategy. However, as the portfolio grows the picture changes dramatically, giving rise to important conflicts of interest. Specifically, when the portfolio experiences a large positive outcome the concavity of the VC\u0026rsquo;s payoff effectively induces risk aversion, with VC preferring safer strategies than E. However, when early projects fail, the VC often prefers riskier strategies than E, even when such strategies destroy value. Most interestingly, early in the life of the fund the VC has stronger incentives to take risk than later in life, creating potential conflicts with entrepreneurs. These results arise due to the securities commonly used in the VC industry and the compensation contracts of VCs.\nWorking paper to be posted soon.\n",
+    "date": 1492560000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1492560000,
+    "objectID": "6048e1b7a213ccf6831d95326906a284",
+    "permalink": "http://roykroth.com/project/risk-incentives/",
+    "publishdate": "2017-04-19T00:00:00Z",
+    "relpermalink": "/project/risk-incentives/",
+    "section": "project",
+    "summary": "Venture Capitalists manage portfolios, this project explores how this simple fact affects their decision making",
+    "tags": [
+      "venture-capital"
+    ],
+    "title": "Risk and Incentives in Venture Capital, A Portfolio Perspective",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\\rm \\LaTeX$ math code.\n",
+    "date": 1483228800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1483228800,
+    "objectID": "cd6d9d084287506b4668ad90c6aff50a",
+    "permalink": "http://roykroth.com/talk/example-talk/",
+    "publishdate": "2017-01-01T00:00:00Z",
+    "relpermalink": "/talk/example-talk/",
+    "section": "talk",
+    "summary": "Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\\rm \\LaTeX$ math code.",
+    "tags": null,
+    "title": "Example Talk",
+    "type": "talk"
+  }
+]

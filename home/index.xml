@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Roy Roth Homepage</title>
+    <link>http://roykroth.com/home/</link>
+    <description>Recent content in Homes on Roy Roth Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Roy Roth</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://roykroth.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://roykroth.com/home/about/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://roykroth.com/home/about/</guid>
+      <description>Biography I am a 5th year PhD student in finance at the Stanford Graduate School of Business. I am on the job market this year and will be available for meetings at the 2019 ASSA meetings in Atlanta. Prior to attending Stanford I earned a bachelors degree in economics and math at Brigham Young University. My research interests include venture capital and entrepreneurship as well the financial decisions of households and firms.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://roykroth.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://roykroth.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://roykroth.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://roykroth.com/home/teaching/</guid>
+      <description>I have worked as a Course Assistant for the following courses
+   School Course Number Course Name Professor Term     Stanford Finance 385 Venture Capital and Angel Financing Ilya Strebulaev Fall 2016, Fall 2017   Stanford Finance 229 MSx Finance Jeff Zwiebel Fall 2018   Stanford Finance 211 Corporate Finance Jeff Zwiebel &amp;amp; Ben Hébert Spring 2016, Spring 2017, Spring 2018   Stanford Finance 201 &amp;amp; 204 Managerial Finance Timothy McQuade &amp;amp; Svetlana Brzgalova Winter 2016, Winter 2017, Winter 2018   BYU Business Management 485 Pre-PhD Finance Seminar Keith Vorkink Winter 2013   BYU Economics 382 Intermediate Price Theory 2 Brennan Platt Winter 2012   BYU Economics 380 Intermediate Price Theory 1 Joseph Price Spring 2012, Fall 2012    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://roykroth.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://roykroth.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
