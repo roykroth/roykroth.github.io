@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Roy Roth</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://roykroth.com/tags/venture-capital/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Risk and Incentives in Venture Capital, A Portfolio Perspective</title>
+      <title>Flexibility Versus Agency - A Model of Stage Financing (Job Market Paper)</title>
+      <link>http://roykroth.com/project/staging/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://roykroth.com/project/staging/</guid>
+      <description>I explore the optimal timing of financing for venture capital-backed companies. In doing so, I make a distinction between staged investment and staged financing, and focus on the latter. Raising a larger percentage of the total needed funds upfront presents operational efficiencies, lowering the cost of the project, but increases the scale of agency problems and sacrifices the option value of delay. The optimal financing path depends upon the relative magnitudes of efficiency gains from upfront financing and the value of waiting.</description>
+    </item>
+    
+    <item>
+      <title>Risk and Incentives in Venture Capital - A Portfolio Perspective</title>
       <link>http://roykroth.com/project/risk-incentives/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       

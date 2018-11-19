@@ -2,6 +2,27 @@
   {
     "authors": null,
     "categories": null,
+    "content": "I explore the optimal timing of financing for venture capital-backed companies. In doing so, I make a distinction between staged investment and staged financing, and focus on the latter. Raising a larger percentage of the total needed funds upfront presents operational efficiencies, lowering the cost of the project, but increases the scale of agency problems and sacrifices the option value of delay. The optimal financing path depends upon the relative magnitudes of efficiency gains from upfront financing and the value of waiting. Furthermore, I consider the effects of entrepreneurial optimism and find that the effect on staging depends on the precision of intermediate information.\nDownload Paper ",
+    "date": 1542153600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1542153600,
+    "objectID": "8d09ae0a29a8f65b1e7932ee52f29749",
+    "permalink": "http://roykroth.com/project/staging/",
+    "publishdate": "2018-11-14T00:00:00Z",
+    "relpermalink": "/project/staging/",
+    "section": "project",
+    "summary": "The benefits of upfront financing are weighed against the potential agency costs to determine the optimal fundraising strategy",
+    "tags": [
+      "venture-capital"
+    ],
+    "title": "Flexibility Versus Agency - A Model of Stage Financing (Job Market Paper)",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
     "content": "I explore conflicts of interest between venture capitalists (VCs) and entrepreneurs (Es). When the venture capital portfolio consists of only a single investment, the VC and E face exactly the same incentives concerning the risk profile and exit strategy. However, as the portfolio grows the picture changes dramatically, giving rise to important conflicts of interest. Specifically, when the portfolio experiences a large positive outcome the concavity of the VC\u0026rsquo;s payoff effectively induces risk aversion, with VC preferring safer strategies than E. However, when early projects fail, the VC often prefers riskier strategies than E, even when such strategies destroy value. Most interestingly, early in the life of the fund the VC has stronger incentives to take risk than later in life, creating potential conflicts with entrepreneurs. These results arise due to the securities commonly used in the VC industry and the compensation contracts of VCs.\nWorking paper to be posted soon.\n",
     "date": 1492560000,
     "expirydate": -62135596800,
@@ -13,11 +34,11 @@
     "publishdate": "2017-04-19T00:00:00Z",
     "relpermalink": "/project/risk-incentives/",
     "section": "project",
-    "summary": "Venture Capitalists manage portfolios, this project explores how this simple fact affects their decision making",
+    "summary": "Venture Capitalists manage portfolios, this project explores how this simple fact affects their decision-making",
     "tags": [
       "venture-capital"
     ],
-    "title": "Risk and Incentives in Venture Capital, A Portfolio Perspective",
+    "title": "Risk and Incentives in Venture Capital - A Portfolio Perspective",
     "type": "project"
   },
   {
